@@ -1,1 +1,1 @@
-# PLAY Token POS/POW Coin
+# LEET Token POS/POW Coin
