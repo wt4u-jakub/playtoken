@@ -1,1 +1,1 @@
-# playtoken
+# PLAY Token POS/POW Coin
