@@ -1,1 +1,1 @@
-# LEET Token POS/POW Coin
+# STRM Token POS/POW Coin
